@@ -102,3 +102,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# own stuff
+dqn/exercise/paths.py
+p1_navigation/python/
+p2_continuous-control/reacher1/
+p2_continuous-control/reacher20/
+
+.idea/
